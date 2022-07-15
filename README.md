@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorPiotrowicz.  I live in Hampshire in the ssouth of England.
 - 👀 I’m interested in lots of stuff... Physics - especially Cosmology, Bioinformatics, Football - and Football Gambling.
-- 🌱 I’m currently learning how to deploy lots of Gambling realted facts, figures and forecasts, via Shiny.
+- 🌱 I’m currently learning how to deploy lots of Gambling related facts, figures and forecasts, via Shiny.
 - 💞️ I’m looking to collaborate on ...  ...not sure yet
 - 📫 Among other routes, you can reach me at victor@flintcottage.com
 
